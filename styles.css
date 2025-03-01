@@ -874,3 +874,6 @@ body {
     line-height: 2rem;
     list-style-type: none;
 }
+.footer-list a{
+    text-decoration: none;
+}
