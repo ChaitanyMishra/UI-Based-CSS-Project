@@ -487,7 +487,11 @@ body {
     }
 
     .card-disc {
-        font-size: 1.078rem;
+        scrollbar-width: none;
+        scroll-behavior: smooth;
+        scroll-snap-type: none;
+        overflow: scroll;
+        font-size: 0.95rem;
         line-height: 1.385rem;
     }
 }
